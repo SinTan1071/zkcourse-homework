@@ -121,7 +121,7 @@ component main = Selector(6);
 } */
 ```
 
-## 第1题 判负 IsNegative
+## 第5题 判负 IsNegative
 
 ```
 pragma circom 2.1.4;
@@ -217,7 +217,7 @@ component main = IsNegative();
 } */
 ```
 
-## 第1题 少于 LessThan
+## 第6题 少于 LessThan
 
 ```
 pragma circom 2.1.4;
@@ -240,7 +240,7 @@ component main = LessThan(3);
 } */
 ```
 
-## 第1题 整数除法 IntegerDivide
+## 第7题 整数除法 IntegerDivide
 
 ```
 TODO
